@@ -1,8 +1,8 @@
 # rails
 DATABASE_PASSWORD: ''
-DATABASE_NAME: 'web-ushizima_db'
+DATABASE_NAME: 'kanban_db'
 
 # AWS
-AWS_S3_BUCKET: 'web-ushizima-s3'
+AWS_S3_BUCKET: 'kanban-s3'
 AWS_S3_ID: ''
 AWS_S3_SEC: ''
