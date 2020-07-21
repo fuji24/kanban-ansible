@@ -1,4 +1,4 @@
-ruby_version: 2.7.1
+ruby_version: 2.6.4
 git_src_archive_download_url: 'https://github.com/git/git/archive/master.zip'
 nginx_download_url: 'http://nginx.org/packages/centos/7/noarch/RPMS/nginx-release-centos-7-0.el7.ngx.noarch.rpm'
 rbenv_download_url: 'https://github.com/sstephenson/rbenv.git'
