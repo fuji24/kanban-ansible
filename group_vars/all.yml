@@ -7,7 +7,7 @@ bundler_version: 2.0.2
 rails_version: 6.0.0
 db_pass: dbpassword
 api_name: kanban
-backend_repository_name: rails
+backend_repository_name: kanban
 rds_master_user_name: ''
 rds_master_user_password: ''
 rds_port: 3306
