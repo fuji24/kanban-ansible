@@ -9,3 +9,7 @@
     - { role: nginx, tags: nginx }
     - { role: nodejs, tags: nodejs}
     - { role: ruby, tags: ruby }
+
+- name: Gathering Facts
+  hosts: staging
+  gather_facts: no
