@@ -1,10 +1,4 @@
 ---
-- hosts: '{{ hosts }}'
-  gather_facts: False
-  tasks:
-    - name: connection test
-      ping:
-
 - name: Playbook for staging
   hosts: staging
   become: yes
