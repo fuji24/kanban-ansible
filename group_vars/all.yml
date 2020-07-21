@@ -1,4 +1,4 @@
-ruby_version: 2.6.4
+ruby_version: 2.7.1
 git_src_archive_download_url: 'https://github.com/git/git/archive/master.zip'
 nginx_download_url: 'http://nginx.org/packages/centos/7/noarch/RPMS/nginx-release-centos-7-0.el7.ngx.noarch.rpm'
 rbenv_download_url: 'https://github.com/sstephenson/rbenv.git'
@@ -7,7 +7,7 @@ bundler_version: 2.0.2
 rails_version: 6.0.0
 db_pass: dbpassword
 api_name: kanban
-backend_repository_name: kanban
+backend_repository_name: rails
 rds_master_user_name: ''
 rds_master_user_password: ''
 rds_port: 3306
